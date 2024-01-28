@@ -1,14 +1,13 @@
 # Practicum Sprint 1
 ## Team Name (if applicable)
-The Protagonists
+InnoHealth
 
 ## Tentative Team Members & Roles
-Paul Atreides,(patredies3) - Frontend Developer
-Ellen Ripley,(eripl44) - UX and Project Management
-Sarah Connor,(sconno2) - Backend Developer
-Rick Deckard,(rdecka11) - Deployment/Devops
+Jun Huang,(jhuang709) - Project Manager; AI Engineer 
+Zhiqiu Jiang,(zjiang88) - UX/UI Designer; Data Scientist 
+Zifeng Zhang,(zzhang3138) - Front-End Developer; Back-End Developer
 
 ## Areas of Interest
-* Public Health Surveillance
-* Machine Learning
-* Big Data
+* Machine Learning / AI for Health
+* Health Analytics & Visualizations
+* Healthcare Technology, Tools & Scripts
